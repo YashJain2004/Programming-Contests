@@ -100,11 +100,26 @@ let imgArr = {
 
     35: 'https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/How-I-Learned-To-Appreciate-The-Art-Of-Computer-Programming-1.png', 
 
-    36: 'https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/02/best-programming-languages-to-learn.png'
+    36: 'https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/02/best-programming-languages-to-learn.png',
 
     // 11: 'https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png', 
 
     // 12: 'https://www.analyticsinsight.net/wp-content/uploads/2021/12/Open-Source-Programming-1.jpeg',
+    37: 'https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png', 
+
+    38: 'https://www.analyticsinsight.net/wp-content/uploads/2021/12/Open-Source-Programming-1.jpeg', 
+
+    39: 'https://www.turing.com/blog/wp-content/uploads/2022/02/programminng-languages-for-ai-scaled.jpg', 
+
+    40: 'https://www.freecodecamp.org/news/content/images/2022/12/main-image.png', 
+
+    41: 'https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg', 
+
+    42: 'https://appinventiv.com/wp-content/uploads/sites/1/2019/02/18-Programming-Languages-Redefining-The-Future-Of-Coding-scaled.webp', 
+
+    43: 'https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/How-I-Learned-To-Appreciate-The-Art-Of-Computer-Programming-1.png', 
+
+    44: 'https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/02/best-programming-languages-to-learn.png'
 
     
 
