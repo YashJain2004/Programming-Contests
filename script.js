@@ -148,8 +148,8 @@ response.then((v)=>{
         console.log(contests[item])
         ihtml += 
         `<div class="card my-2 mx-2" style="width: 22rem;" >
-        <img src="${imgArr[number]}">
-          <h5 class="card-title">${contests[item].name} </h5>
+        <img src="${imgArr[number]}" style="height: 200px">
+          <h5 class="card-title">${contests[item].name.slice(0,15)} </h5>
           <p>Site is: ${contests[item].site}</p>
           <p>Status is: ${contests[item].status}</p>
           <p>In 24 Hours?: ${contests[item].in_24_hours}</p>
