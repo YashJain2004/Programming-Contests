@@ -153,8 +153,8 @@ response.then((v)=>{
           <p>Site is: ${contests[item].site}</p>
           <p>Status is: ${contests[item].status}</p>
           <p>In 24 Hours?: ${contests[item].in_24_hours}</p>
-          <p>Start at: ${contests[item].start_time}</p>
-          <p>End at: ${contests[item].end_time}</p>
+          <p>Start at: ${new Date(contests[item].start_time).toGMTString()}</p>
+          <p>End at: ${new Date(contests[item].end_time).toGMTString()}</p>
           <a href="${contests[item].url}" class="btn btn-primary" target="_blank">Visit Contest</a>
         </div>
       </div>
